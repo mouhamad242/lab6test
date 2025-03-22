@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMath", "BasicMath\BasicMath.csproj", "{61613ED0-2A7C-4385-AF31-A38DCFFBC34B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMathTest", "BasicMathTest\BasicMathTest.csproj", "{398035B5-B183-411F-9DC0-93D1D7232832}"
+	ProjectSection(ProjectDependencies) = postProject
+		{61613ED0-2A7C-4385-AF31-A38DCFFBC34B} = {61613ED0-2A7C-4385-AF31-A38DCFFBC34B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61613ED0-2A7C-4385-AF31-A38DCFFBC34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61613ED0-2A7C-4385-AF31-A38DCFFBC34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61613ED0-2A7C-4385-AF31-A38DCFFBC34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61613ED0-2A7C-4385-AF31-A38DCFFBC34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398035B5-B183-411F-9DC0-93D1D7232832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398035B5-B183-411F-9DC0-93D1D7232832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398035B5-B183-411F-9DC0-93D1D7232832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398035B5-B183-411F-9DC0-93D1D7232832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
