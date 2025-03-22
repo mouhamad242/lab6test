@@ -1,0 +1,5 @@
+C:\Users\mhmdj\source\repos\BasicMath\BasicMath\obj\Debug\net8.0\BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmdj\source\repos\BasicMath\BasicMath\obj\Debug\net8.0\BasicMath.AssemblyInfoInputs.cache
+C:\Users\mhmdj\source\repos\BasicMath\BasicMath\obj\Debug\net8.0\BasicMath.AssemblyInfo.cs
+C:\Users\mhmdj\source\repos\BasicMath\BasicMath\obj\Debug\net8.0\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\mhmdj\source\repos\BasicMath\BasicMath\obj\Debug\net8.0\BasicMath.sourcelink.json
